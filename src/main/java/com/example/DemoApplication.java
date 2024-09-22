@@ -1,16 +1,19 @@
 package com.example;
 
 public class DemoApplication {
-    // Method to add two numbers
-    public int add(int a, int b) {
-        return a - b;
+
+    // Method for addition
+    public int add(int num1, int num2) {
+        return num1 + num2;
     }
 
-    public int sub(int a, int b) {
-        return a - b;
+    // Method for subtraction
+    public int sub(int num1, int num2) {
+        return num1 - num2;
     }
 
-    public int mul(int a, int b) {
-        return a * b;
+    // Method for multiplication
+    public int mul(int num1, int num2) {
+        return num1 * num2;
     }
 }
