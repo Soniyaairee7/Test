@@ -24,7 +24,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Use only Jakarta Servlet API (Remove javax.servlet to avoid conflicts) -->
+        <!-- Use only Jakarta Servle tetestt API (Remove javax.servlet to avoid conflicts) -->
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
